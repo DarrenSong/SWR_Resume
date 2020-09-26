@@ -26,16 +26,16 @@ ___
 
 ___
 
-<table border="0">
+<table width="400" border="0">
     <tr>
-        <td>2017.6-2018.8</td>
-        <td>云科智能伺服控制技术有限公司</td>
-        <td>软件工程师</td>
+        <td align="center">2017.6-2018.8</td>
+        <td align="center">云科智能伺服控制技术有限公司</td>
+        <td align="center">软件工程师</td>
     </tr>
         <tr>
-        <td>2018.8-至今</td>
-        <td>采埃孚（中国）投资有限公司</td>
-        <td>电子软件工程师</td>
+        <td align="center">2018.8-至今</td>
+        <td align="center">采埃孚（中国）投资有限公司</td>
+        <td align="center">电子软件工程师</td>
     </tr>
 </table>
 
