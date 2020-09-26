@@ -1,6 +1,6 @@
 **宋伟任**                                手机:18801910690
 
-上海大学|工学硕士           邮箱：songweiren_shu@163.com                                                   <img src=".\image\header.jpg" alt="header" style="zoom:12%;" />
+上海大学|工学硕士           邮箱：songweiren_shu@163.com                                 <img src=".\image\header.jpg" alt="header" style="zoom:12%;" />
 
 ​											出生年月：1992年4月
 
@@ -18,9 +18,18 @@
 
 ___
 
-2010.9-2014.7                                                        **上海大学**       机械工程及自动化                                       本科|学士
-
-2014.9-2017.6                                                        **上海大学**        机械电子工程                                           研究生|硕士
+<table border="">
+    <tr>
+        <td>2010.9-2014.7</td>
+        <td align="center"><b>上海大学</b>  (机械工程及自动化)</td>
+        <td align="center">本科|学士</td>
+    </tr>
+        <tr>
+        <td>2014.9-2017.6</td>
+        <td align="center"><b>上海大学</b>  (机械电子工程)</td>
+        <td align="center"> 研究生|硕士</td>
+    </tr>
+</table>
 
 ##### 工作经历
 
@@ -28,13 +37,13 @@ ___
 
 <table width="400" border="0">
     <tr>
-        <td align="center">2017.6-2018.8</td>
+        <td>2017.6-2018.8</td>
         <td align="center">云科智能伺服控制技术有限公司</td>
         <td align="center">软件工程师</td>
     </tr>
         <tr>
-        <td align="center">2018.8-至今</td>
-        <td align="center">采埃孚（中国）投资有限公司</td>
+        <td>2018.8-至今</td>
+        <td align="center"><b>采埃孚（中国）投资有限公司</b></td>
         <td align="center">电子软件工程师</td>
     </tr>
 </table>
