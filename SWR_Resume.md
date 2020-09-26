@@ -4,7 +4,7 @@
 
 ​											出生年月：1992年4月
 
-**Blog **:        <https://blog.csdn.net/wujizhishang>
+**Blog**:        <https://blog.csdn.net/wujizhishang>
 
 **Github**:    <https://github.com/DarrenSong>
 
