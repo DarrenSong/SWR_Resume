@@ -26,7 +26,7 @@ ___
 
 ___
 
-<table align="center" border="0">
+<table border="0">
     <tr>
         <td>2017.6-2018.8</td>
         <td>云科智能伺服控制技术有限公司</td>
