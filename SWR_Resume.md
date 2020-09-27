@@ -18,7 +18,7 @@
 
 ___
 
-<table border="">
+<table border="0">
     <tr>
         <td>2010.9-2014.7</td>
         <td align="center"><b>上海大学</b>  (机械工程及自动化)</td>
@@ -86,3 +86,93 @@ ___
 - 语言能力 ：中文（母语），英语（中级）
 - 证书：全国计算机二级C语言，大学生节能减排大赛三等奖，普通话二级乙等
 - 其他技能：C1驾照，ISTQB Certified Tester
+
+<center>*****<b>English Version</b>*****</center>
+**Weiren SONG**                                Phone:18801910690
+
+Shanghai University| Master           E-Mail：songweiren_shu@163.com                                 <img src=".\image\header.jpg" alt="header" style="zoom:12%;" />
+
+​											birthday：1992.04
+
+**Blog**:        <https://blog.csdn.net/wujizhishang>
+
+**Github**:    <https://github.com/DarrenSong>
+
+***Job Intention*** ：Software Engineer，Algorithm Engineer
+
+I have graduated from the master's degree for almost 3 years. I have worked at Yunke servo for 1 year. In Yunke, I was responsible for the development of the communication module on the DSP2812 platform using C. I am familiar with the some communication protocol such as MIII, CANOpen, and TCP/IP etc, also good at the programming languages such as C/C++, C# and Matlab. I am familiar with program development on Windows and Unbutu. I joined ZF(China) as a software engineer in 8.2018. I develop the function of local customer requirements with Germany team using C++, and also do some on-site supports for local customers. I am proficient in some softwares such as VS2013/Source Insight/CCS3.3/Keil5.0 for coding and Git,ClearCase for version control and so on. I am hardworking, practical and studious, and have a good sense of teamwork and can integrate into the team as soon as possible. Personal WebSite: www.songweiren.top
+
+***
+
+##### Education
+
+___
+
+<table border="0">
+    <tr>
+        <td>2010.9-2014.7</td>
+        <td align="center"><b>Shanghai University</b>  (Mechatronic Engineering & Automation)</td>
+        <td align="center">本科|学士</td>
+    </tr>
+        <tr>
+        <td>2014.9-2017.6</td>
+        <td align="center"><b>Shanghai University</b>  (Mechatronic & Electric Engineering)</td>
+        <td align="center"> 研究生|硕士</td>
+    </tr>
+</table>
+
+##### Work Experience
+
+___
+
+<table width="400" border="0">
+    <tr>
+        <td>2017.6-2018.8</td>
+        <td align="center">YunKe Intelligent Servo Control Technology Co., Ltd.</td>
+        <td align="center">SW Engineer</td>
+    </tr>
+        <tr>
+        <td>2018.8-To Present</td>
+        <td align="center"><b> ZF (China) Investment Co., Ltd.</b></td>
+        <td align="center">SW Engineer</td>
+    </tr>
+</table>
+
+##### Projects Experience
+
+___
+
+- Project Name：Develop the communication module of Servo driver(YunKe Servo)
+
+  Description：develop MIII and CANOpen communication protocol part for Servo driver on DSP2812 platform, and programming language is C language
+
+- Project Name：Sniffer Tool Via C++ based on Windows (YunKe Servo)
+
+  Description：The IDE I used is Qt, I implement the coding for capturing the data and decode the data.
+- Project Name：Windows PC Software for config Servo driver(YunKe Servo)
+
+  Description：develop the Windows PC software that be used to config servo driver using C#，which contain Oscilloscope. The IDE used is Visual Studio 2015, and the programming language is C# (WinForm). The PC software send command to servo driver to config the parameter by serial port.
+  
+- Project Name：Change the Gear shift strategy of TCU (ZF China)
+
+  Description： there are 2 shift lever on the vehicle, the one is CAN shift lever, and another one is digital FNR lever. We need change the propriety of these levers regarding different customer requirements. 
+- Project Name：add the backup error memory for TCU (ZF China)
+
+  Description：some error codes of TCU is the key point for solving the actual problem. So these error codes should not be clear by user, they should only be deleted by manufacturer. 。  
+- Project Name：add a broadcast CAN message from J1939(AUXIO1) (ZF China)
+
+  Description：a part of our customer need the IO signals from TCU, so we need give a feedback of our signals. The general solution is that TCU broadcast a CAN message which include all IO signals of TCU for this purpose, so they can get the signals from this message
+  
+##### Professional Skills
+
+___
+
+C/C++、C#、Python、Shell、makefile、markdown、Data Structures And Algorithms
+
+##### Integrated Skills
+
+___
+
+- Language ：Chinese, English
+- Certificate：National Computer Rank Examination, Energy Saving &Emission Reduction
+- Other Skills：C1 driving license, ISTQB Certified Tester
