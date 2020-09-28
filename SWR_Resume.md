@@ -112,12 +112,12 @@ ___
     <tr>
         <td>2010.9-2014.7</td>
         <td align="center"><b>Shanghai University</b>  (Mechatronic Engineering & Automation)</td>
-        <td align="center">本科|学士</td>
+        <td align="center">Bachelor</td>
     </tr>
         <tr>
         <td>2014.9-2017.6</td>
         <td align="center"><b>Shanghai University</b>  (Mechatronic & Electric Engineering)</td>
-        <td align="center"> 研究生|硕士</td>
+        <td align="center"> Master</td>
     </tr>
 </table>
 
