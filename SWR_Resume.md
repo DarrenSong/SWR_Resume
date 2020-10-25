@@ -77,7 +77,7 @@ ___
 
 ___
 
-C/C++、C#、Python、Shell、makefile、markdown、数据结构与算法
+C/C++、C#、Python、Shell、makefile、markdown、数据结构与算法、Vector工具链(CANape,CANoe,CANalyzer)
 
 ##### 综合技能
 
@@ -167,7 +167,7 @@ ___
 
 ___
 
-C/C++、C#、Python、Shell、makefile、markdown、Data Structures And Algorithms
+C/C++、C#、Python、Shell、makefile、markdown、Data Structures And Algorithms、VectorTools(CANape,CANoe,CANalyzer)
 
 ##### Integrated Skills
 
