@@ -10,7 +10,7 @@
 
 ***求职意向*** ：软件工程师，算法工程师
 
-本人硕士研究生毕业已两年多，第一年在云科伺服工作，主要负责在DSP2812平台上的通讯模块开发(C语言)，熟悉工业现场总线，如MIII、CANOpen和TCP/IP等协议。云科关门后，转到采埃孚工作至今，主要做TCU应用层软件开发，主要用C++，主控MCU是MPC5644，通讯协议以J1939为主。本人精通C语言，熟悉C++、C#和Matlab，Python等编程语言，熟悉CC、Git、SVN等版本控制软件及DOORS，CQ和Integrity等需求管理软件，也熟悉Windows和Unbutu下的的程序开发,熟练使用VS2013/Source Insight/CCS3.3/Keil5.0等IDE,熟悉MakeFile文件和CMake及Shell脚本。本人勤奋努力，踏实好学，且有良好的团队意识，能够尽快的融入团队。
+本人于2017年硕士研究生毕业，第一年在云科伺服工作，主要负责在DSP2812平台上的通讯模块开发(C语言)，熟悉工业现场总线，如MIII、CANOpen和TCP/IP等协议。云科关门后，在采埃孚工作两年半，主要做TCU应用层软件开发[C++]，主控MCU是MPC5644，通讯协议以J1939为主。现在联影医疗担任软件开发工程师。本人精通C语言，熟悉C++、C#和Matlab，Python等编程语言，熟悉CC、Git、SVN等版本控制软件及DOORS，CQ和Integrity等需求管理软件，熟悉Vector工具链的开发及使用，也熟悉Windows和Unbutu下的的程序开发,熟练使用VS2013/Source Insight/CCS3.3/Keil5.0等IDE,熟悉MakeFile文件和CMake及Shell脚本。本人勤奋努力，踏实好学，且有良好的团队意识，能够尽快的融入团队。
 
 ***
 
@@ -42,9 +42,14 @@ ___
         <td align="center">软件工程师</td>
     </tr>
         <tr>
-        <td>2018.8-至今</td>
-        <td align="center"><b>采埃孚（中国）投资有限公司</b></td>
+        <td>2018.8-2021.2</td>
+        <td align="center">采埃孚（中国）投资有限公司</td>
         <td align="center">电子软件工程师</td>
+    </tr>
+        <tr>
+        <td>2021.3-至今</td>
+        <td align="center"><b>上海联影医疗科技股份有限公司</b></td>
+        <td align="center">软件开发工程师</td>
     </tr>
 </table>
 
@@ -72,7 +77,9 @@ ___
 - 项目名称：增加CAN message用于反馈TCU的IO信号（采埃孚）
 
   项目描述：客户需要从CAN message中读取TCU IO信号，ZF 提供一个广播报文用于反馈状态（AUXIO1）
-  
+- 项目名称：球管放线控制模块开发（联影医疗）
+
+  项目描述：基于Linux下C++软件开发，基于SPI3和CANOpen与球管通讯，收集球管的反馈信息，控制球管工作。
 ##### 专业技能
 
 ___
@@ -100,7 +107,7 @@ Shanghai University| Master           E-Mail：songweiren_shu@163.com           
 
 ***Job Intention*** ：Software Engineer，Algorithm Engineer
 
-I have graduated from the master's degree for almost 3 years. I have worked at Yunke servo for 1 year. In Yunke, I was responsible for the development of the communication module on the DSP2812 platform using C. I am familiar with the some communication protocol such as MIII, CANOpen, and TCP/IP etc, also good at the programming languages such as C/C++, C# and Matlab. I am familiar with program development on Windows and Unbutu. I joined ZF(China) as a software engineer in 8.2018. I develop the function of local customer requirements with Germany team using C++, and also do some on-site supports for local customers. I am proficient in some softwares such as VS2013/Source Insight/CCS3.3/Keil5.0 for coding and Git,ClearCase for version control and so on. I am hardworking, practical and studious, and have a good sense of teamwork and can integrate into the team as soon as possible. Personal WebSite: www.songweiren.top
+I have graduated from the master's degree for almost 4 years. I have worked at Yunke servo for 1 year. In Yunke, I was responsible for the development of the communication module on the DSP2812 platform using C. I am familiar with the some communication protocol such as MIII, CANOpen, and TCP/IP etc, also good at the programming languages such as C/C++, C# and Matlab. I am familiar with program development on Windows and Unbutu. I joined ZF(China) as a software engineer in 8.2018. I develop the function of local customer requirements with Germany team using C++, and also do some on-site supports for local customers. I have worked as a software engineer Since 2021.3 in UIH Company. I am proficient in some softwares such as VS2013/Source Insight/CCS3.3/Keil5.0 for coding and Git,ClearCase for version control and so on. I am hardworking, practical and studious, and have a good sense of teamwork and can integrate into the team as soon as possible. Personal WebSite: www.songweiren.top
 
 ***
 
@@ -132,8 +139,13 @@ ___
         <td align="center">SW Engineer</td>
     </tr>
         <tr>
-        <td>2018.8-To Present</td>
-        <td align="center"><b> ZF (China) Investment Co., Ltd.</b></td>
+        <td>2018.8-To 2021.2</td>
+        <td align="center"> ZF (China) Investment Co., Ltd.</td>
+        <td align="center">SW Engineer</td>
+    </tr>
+         <tr>
+        <td>2021.3-To Present</td>
+        <td align="center"><b>United Imaging Healthcare Co., Ltd</b></td>
         <td align="center">SW Engineer</td>
     </tr>
 </table>
@@ -162,7 +174,9 @@ ___
 - Project Name：add a broadcast CAN message from J1939(AUXIO1) (ZF China)
 
   Description：a part of our customer need the IO signals from TCU, so we need give a feedback of our signals. The general solution is that TCU broadcast a CAN message which include all IO signals of TCU for this purpose, so they can get the signals from this message
-  
+- Project Name：Tube Control module  (UIH)
+
+  Description：Pending Update...
 ##### Professional Skills
 
 ___
