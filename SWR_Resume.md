@@ -37,9 +37,9 @@ ___
 
 <table width="400" border="0">
     <tr>
-        <td>2017.6-2018.8</td>
-        <td align="center">云科智能伺服控制技术有限公司</td>
-        <td align="center">软件工程师</td>
+	    <td>2021.3-至今</td>
+        <td align="center"><b>上海联影医疗科技股份有限公司</b></td>
+        <td align="center">软件开发工程师</td>
     </tr>
         <tr>
         <td>2018.8-2021.2</td>
@@ -47,9 +47,9 @@ ___
         <td align="center">电子软件工程师</td>
     </tr>
         <tr>
-        <td>2021.3-至今</td>
-        <td align="center"><b>上海联影医疗科技股份有限公司</b></td>
-        <td align="center">软件开发工程师</td>
+        <td>2017.6-2018.8</td>
+        <td align="center">云科智能伺服控制技术有限公司</td>
+        <td align="center">软件工程师</td>
     </tr>
 </table>
 
@@ -133,9 +133,9 @@ ___
 ___
 
 <table width="400" border="0">
-    <tr>
-        <td>2017.6-2018.8</td>
-        <td align="center">YunKe Intelligent Servo Control Technology Co., Ltd.</td>
+    <tr>   
+        <td>2021.3-To Present</td>
+        <td align="center"><b>United Imaging Healthcare Co., Ltd</b></td>
         <td align="center">SW Engineer</td>
     </tr>
         <tr>
@@ -143,9 +143,9 @@ ___
         <td align="center"> ZF (China) Investment Co., Ltd.</td>
         <td align="center">SW Engineer</td>
     </tr>
-         <tr>
-        <td>2021.3-To Present</td>
-        <td align="center"><b>United Imaging Healthcare Co., Ltd</b></td>
+        <tr>
+		<td>2017.6-2018.8</td>
+        <td align="center">YunKe Intelligent Servo Control Technology Co., Ltd.</td>
         <td align="center">SW Engineer</td>
     </tr>
 </table>
